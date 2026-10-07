@@ -28,8 +28,7 @@ npm run lint
 ```
 
 ## Netlify
-
-El archivo `netlify.toml` configura el comando `npm run build` y el directorio estático `dist`. No hay una publicación realizada todavía.
+El archivo netlify.toml configura el comando npm run build y el directorio estático dist. Producción está publicada en https://serviteca-adso.netlify.app.
 
 ## Alcance de la demostración
 
